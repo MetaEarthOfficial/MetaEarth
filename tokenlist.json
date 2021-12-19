@@ -1,0 +1,41 @@
+{
+  "name": "Uniswap Default List",
+  "timestamp": "2021-07-01T00:00:00.001Z",
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/busd_32.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/Bscex/bscex-token-list/master/images/0x55d398326f99059fF775485246999027B3197955.png"
+    },
+    {
+      "name": "Wrapped BNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/Bscex/bscex-token-list/master/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+    }
+  ]
+}
