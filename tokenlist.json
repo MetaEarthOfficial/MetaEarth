@@ -1,8 +1,8 @@
 {
   "name": "Uniswap Default List",
-  "timestamp": "2021-07-01T00:00:00.001Z",
+  "timestamp": "2021-11-01T00:00:00.001Z",
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 1,
     "patch": 1
   },
