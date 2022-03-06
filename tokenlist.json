@@ -2,7 +2,7 @@
   "name": "Uniswap Default List",
   "timestamp": "2021-07-01T00:00:00.001Z",
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 1,
     "patch": 1
   },
@@ -13,6 +13,15 @@
     "default"
   ],
   "tokens": [
+     {
+      "name": "MetaCube",
+      "address": "0xe70F4494a99E6BA74A932C7f15D7e7D417442c0a",
+      "symbol": "MetaCube",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/MetaEarthOfficial/MetaEarth/main/earth.jpg"
+    },
+    {
     {
       "name": "BUSD",
       "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
